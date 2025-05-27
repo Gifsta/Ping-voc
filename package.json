@@ -1,0 +1,13 @@
+{
+  "name": "discord-voc-ping",
+  "version": "1.0.0",
+  "description": "Bot Discord qui ping un rôle lors de la création d'un salon vocal public",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1"
+  }
+} 
